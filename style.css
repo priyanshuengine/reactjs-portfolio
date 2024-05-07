@@ -129,3 +129,9 @@
       flex-wrap: wrap;
     }
   }
+
+  .footer-bottom img {
+    width: 24px; /* Set the width of the icon */
+    height: 24px; /* Set the height of the icon */
+    margin-left: 40px; /* Push the icon to the right */
+}
