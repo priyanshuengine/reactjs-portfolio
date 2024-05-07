@@ -131,7 +131,21 @@
   }
 
   .footer-bottom img {
-    width: 24px; /* Set the width of the icon */
-    height: 24px; /* Set the height of the icon */
-    margin-left: 40px; /* Push the icon to the right */
+    width: 54px; /* Set the width of the icon */
+    height: 64px; /* Set the height of the icon */
+    margin-left: 70px; 
+   
+}
+@media (max-width: 767px) {
+  .footer-bottom img {
+      margin-left: -1px; /* Adjusted margin-left for smaller screens */
+  }
+}
+
+.gradient-text {
+  background: linear-gradient(to right, lightblue, white, violet);
+  -webkit-background-clip: text;
+  -moz-background-clip: text; /* For Firefox support */
+  background-clip: text;
+  color: transparent; /* Make text transparent so the gradient shows through */
 }
