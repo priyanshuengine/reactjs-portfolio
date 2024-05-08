@@ -7,7 +7,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
 <a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-<img width="100%" alt="Portfolio Screenshot" src="">
+<img width="100%" alt="Portfolio Screenshot" src="https://github.com/priyanshuengine/reactjs-portfolio/blob/main/cover.png">
 
 
 :star: Star me on GitHub — it helps!
