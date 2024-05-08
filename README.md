@@ -1,11 +1,9 @@
 # <a href="[https://vinodjangid07.github.io/](https://priyanshume.netlify.app/)" target="_blank">Priyanshu's Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)]([[https://github.com/vinodjangid07/vinodjangid07.github.i](https://github.com/priyanshuengine?tab=repositories)o](https://github.com/priyanshuengine?tab=repositories)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]([https://vinodjangid07.github.io/](https://priyanshume.netlify.app/))
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)][(https://github.com/vinodjangid07/vinodjangid07.github.io](https://github.com/priyanshuengine?tab=repositories))
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+
+
 
 <img width="100%" alt="Portfolio Screenshot" src="https://github.com/priyanshuengine/reactjs-portfolio/blob/main/cover.png">
 
